@@ -1,0 +1,13 @@
+{
+  "name": "pyzill",
+  "version": "1.0.0",
+  "description": "Open-source tool for extracting property information from Zillow using Node.js.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
